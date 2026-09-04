@@ -1,1 +1,1 @@
-contact
+Welcome to my GitHub profile!
